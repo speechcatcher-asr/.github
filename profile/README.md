@@ -1,6 +1,6 @@
 # Speechcatcher
 
-Speechcatcher is a open source toolbox for transcribing and translating speech from media files (audio/video).
+Speechcatcher is an open source toolbox for transcribing and translating speech from media files (audio/video).
 
 ## Models
 
