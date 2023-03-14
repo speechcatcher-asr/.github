@@ -1,16 +1,16 @@
 # Speechcatcher
 
-Speechcatcher is an open source toolbox for transcribing and translating speech from media files (audio/video). Speechcatcher models are trained using whisper as teacher and offer compact and small ASR models that run fast on CPUs too.
+Speechcatcher is an open source toolbox for transcribing and translating speech from media files (audio/video). Speechcatcher models are trained using whisper as teacher and offer compact and small ASR models that run fast on CPUs too:
 
 ![Speechcatcher Teacher/student training](https://github.com/speechcatcher-asr/speechcatcher/raw/main/speechcatcher_training.svg)
 
-## Models
+## Speechcatcher CLI
 
-See <a href="https://github.com/speechcatcher-asr/speechcatcher-webgui">here</a> for an overview of all available speechcatcher models.
+You can find the command line interface <a href="https://github.com/speechcatcher-asr/speechcatcher">here</a>. It can transcribe any media file and can also be used for live transcription with your microphone. In this repository, there is also an overview of all available speechcatcher models.
 
 ## Data
 
-Scripts to replicate the data gathering can be found in: <a href="https://github.com/speechcatcher-asr/speechcatcher-data-de">speechcatcher-data-de</a>.
+Scripts to replicate the data gathering can be found in: <a href="https://github.com/speechcatcher-asr/speechcatcher-data-de">speechcatcher-data-de</a>. There also instructions on how to replicate the training procedure.
 
 ## Webgui
 
