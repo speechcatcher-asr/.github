@@ -10,7 +10,7 @@ You can find the command line interface <a href="https://github.com/speechcatche
 
 ## Data
 
-Scripts to replicate the data gathering can be found in: <a href="https://github.com/speechcatcher-asr/speechcatcher-data-de">speechcatcher-data-de</a>. There also instructions on how to replicate the training procedure.
+Scripts to replicate the data gathering can be found in: <a href="https://github.com/speechcatcher-asr/speechcatcher-data">speechcatcher-data</a>. There also instructions on how to replicate the training procedure with espnet.
 
 ## Webgui
 
