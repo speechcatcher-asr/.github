@@ -14,7 +14,7 @@ Scripts to replicate the data gathering can be found in: <a href="https://github
 
 ## Webgui
 
-Speechcatcher also comes with an easy to use <a href="https://github.com/speechcatcher-asr/speechcatcher-webgui">webgui</a>. It is going to support multiple ASR engines: <a href="https://github.com/speechcatcher-asr/speechcatcher">speechcatcher (GPU/CPU)</a>, <a href="https://github.com/uhh-lt/subtitle2go">subtitle2go (CPU-only)</a> or <a href="https://github.com/openai/whisper">whisper (GPU)</a>.  
+Speechcatcher also comes with an easy to use <a href="https://github.com/speechcatcher-asr/speechcatcher-webgui">webgui</a>. It supports multiple ASR engines: <a href="https://github.com/speechcatcher-asr/speechcatcher">speechcatcher (CPU)</a>, <a href="https://github.com/uhh-lt/subtitle2go">subtitle2go (CPU)</a> or <a href="https://github.com/openai/whisper">whisper (GPU)</a>.  
 
 ## Benchmarks
 
